@@ -2,7 +2,10 @@
 {
     public enum NotificationType
     {
-        Info, Warning, Error, System
+        Info,
+        Warning,
+        Error,
+        System
     }
 
 
